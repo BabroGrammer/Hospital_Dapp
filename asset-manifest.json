@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hospital_Dapp/static/css/main.64e66807.chunk.css",
+    "main.js": "/Hospital_Dapp/static/js/main.fb715244.chunk.js",
+    "main.js.map": "/Hospital_Dapp/static/js/main.fb715244.chunk.js.map",
+    "runtime-main.js": "/Hospital_Dapp/static/js/runtime-main.cef3d7bd.js",
+    "runtime-main.js.map": "/Hospital_Dapp/static/js/runtime-main.cef3d7bd.js.map",
+    "static/js/2.afdec703.chunk.js": "/Hospital_Dapp/static/js/2.afdec703.chunk.js",
+    "static/js/2.afdec703.chunk.js.map": "/Hospital_Dapp/static/js/2.afdec703.chunk.js.map",
+    "index.html": "/Hospital_Dapp/index.html",
+    "precache-manifest.c526af4de3d722cc08be8e1e53e1b9c6.js": "/Hospital_Dapp/precache-manifest.c526af4de3d722cc08be8e1e53e1b9c6.js",
+    "service-worker.js": "/Hospital_Dapp/service-worker.js",
+    "static/css/main.64e66807.chunk.css.map": "/Hospital_Dapp/static/css/main.64e66807.chunk.css.map",
+    "static/js/2.afdec703.chunk.js.LICENSE.txt": "/Hospital_Dapp/static/js/2.afdec703.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cef3d7bd.js",
+    "static/js/2.afdec703.chunk.js",
+    "static/css/main.64e66807.chunk.css",
+    "static/js/main.fb715244.chunk.js"
+  ]
+}
